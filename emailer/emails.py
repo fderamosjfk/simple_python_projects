@@ -1,6 +1,7 @@
 
 import smtplib
 
+# sample python emailer using gmail server 
 def send_emails(emails, schedule, forecast):
     # Connect to the smtp server
     server = smtplib.SMTP('smtp.gmail.com', '587')
