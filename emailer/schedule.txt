@@ -1,0 +1,5 @@
+Circus event 01 - 9:00am
+Circus event 02 - 12:00pm
+Circus event 03 - 3:00pm
+Circus event 04 - 6:00pm
+Circus event 05 - 9:00pm
